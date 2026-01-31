@@ -1,0 +1,7 @@
+[2024-01-15 10:00] Alice: Hey team, let's decide on the deployment approach today.
+[2024-01-15 10:02] Bob: I vote for Docker. We can use docker-compose for local dev.
+[2024-01-15 10:05] Carol: +1 for Docker. Alice can you handle the CI pipeline?
+[2024-01-15 10:07] Alice: Yes, I'll set up GitHub Actions. Bob - can you handle the backend API?
+[2024-01-15 10:10] Bob: Sure thing. I'll have the first endpoint ready by EOD.
+[2024-01-15 10:12] Dave: lol that meme was gold
+[2024-01-15 10:15] Carol: Open question: do we need a staging environment?

@@ -1,0 +1,9 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+*.log
+chroma_data/
+README.md
+**/README.md
