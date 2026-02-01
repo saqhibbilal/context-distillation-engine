@@ -1,0 +1,10 @@
+[2024-01-15 10:22] Alex: Alright team, we have 24 hours. What's our MVP scope?
+[2024-01-15 10:11] Sam: I think auth + one core feature. Login and the main flow.
+[2024-01-15 10:13] Jordan: +1. I'll handle the frontend, React + Vite.
+[2024-01-15 10:19] Alex: Sam - backend API? Jordan - can you also do the deploy config?
+[2024-01-15 10:01] Sam: On it. I'll use FastAPI. Database - SQLite for speed?
+[2024-01-15 10:27] Jordan: Sure. I'll add a Dockerfile. We can deploy to Railway.
+[2024-01-15 10:00] Riley: lol just saw the prize pool
+[2024-01-15 10:01] Alex: Focus people. Decision: SQLite, FastAPI backend, React frontend. Jordan owns deploy.
+[2024-01-15 10:25] Jordan: Roger. Open question: do we need a staging env or ship straight to prod?
+[2024-01-15 10:29] Sam: Ship to prod. No time for staging. We can add env vars for config.

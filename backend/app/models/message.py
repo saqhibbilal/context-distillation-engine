@@ -35,6 +35,12 @@ class IngestRequest(BaseModel):
     text: str = Field(..., min_length=1, description="Raw chat log text to parse")
 
 
+class ChatRequest(BaseModel):
+    """Request body for chat/query."""
+
+    question: str = Field(..., min_length=1)
+
+
 class IngestResponse(BaseModel):
     """Response after successful ingestion."""
 

@@ -1,0 +1,8 @@
+[2024-01-15 10:09] Mia: Can we push the session to 3pm? Got a conflict.
+[2024-01-15 10:16] Omar: Works for me. Same room?
+[2024-01-15 10:23] Ella: Yes, room 204. We're covering chapters 5-7 right?
+[2024-01-15 10:16] Mia: Yes. I'll prepare the summary for chapter 5.
+[2024-01-15 10:16] Omar: I'll do chapter 6. Ella - can you handle 7?
+[2024-01-15 10:14] Ella: Sure. Should we do practice problems after?
+[2024-01-15 10:13] Mia: Good idea. Decision: 3pm, room 204, each does one chapter summary + practice.
+[2024-01-15 10:21] Omar: Reminder: exam is next Tuesday. We should do a mock before.

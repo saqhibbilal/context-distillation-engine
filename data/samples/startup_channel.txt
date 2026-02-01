@@ -1,0 +1,8 @@
+[2024-01-15 10:17] Devon: Deployment failed again. The env vars aren't loading in prod.
+[2024-01-15 10:21] Casey: Check the Railway dashboard - they might be scoped to the wrong service.
+[2024-01-15 10:01] Devon: Found it. Was pointing to staging. Fixed.
+[2024-01-15 10:05] Taylor: Heads up: we're hitting rate limits on the external API. Need to add caching.
+[2024-01-15 10:13] Casey: I'll add Redis. Can have it done by EOD.
+[2024-01-15 10:22] Devon: Taylor - can you document the API contract? Casey - Redis + cache key strategy.
+[2024-01-15 10:12] Taylor: Will do. Open question: do we deprecate the v1 endpoint this sprint?
+[2024-01-15 10:16] Casey: I vote yes. We've migrated all clients. Decision: deprecate v1 end of week.
