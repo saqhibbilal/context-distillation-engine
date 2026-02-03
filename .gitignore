@@ -6,5 +6,3 @@ __pycache__/
 *.log
 chroma_data/
 node_modules/
-README.md
-**/README.md
